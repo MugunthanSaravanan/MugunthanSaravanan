@@ -104,8 +104,8 @@ background: linear-gradient(to right, #2B3035, #f2B3035, #2ec964); /* W3C, IE 10
   margin-top: 20px;
   padding: 20px;
   background: #5d4037;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right,#b4bcc4,#b4bcc4, #5d4037);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b4bcc4,#b4bcc4, #5d4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   width: 290px;
   display: block;
