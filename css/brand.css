@@ -213,7 +213,7 @@ background: linear-gradient(to right,#4285F4, #34A853, #FBBC05, #EA4335); /* W3C
 }
 /* --------------DEVELOPER--------------------------------------- */
 
-/* --------------HACKER RANK--------------------------------------- */
+/* --------------CODING--------------------------------------- */
 
 .links-coding{
   text-align: center;
@@ -241,9 +241,9 @@ background: linear-gradient(to right,#4285F4, #34A853, #FBBC05, #EA4335); /* W3C
   margin-right: auto;
   border-radius: 8px;
   font-size: 15px;
-  color: white;
+  color: black;
 }
-/* --------------HACKER RANK--------------------------------------- */
+/* --------------CODING--------------------------------------- */
 
 /* --------------Resume--------------------------------------- */
 
