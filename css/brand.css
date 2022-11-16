@@ -36,7 +36,10 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #24d1b4;
+  background: #def2f1;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#3aafa9,#def2f1,#3aafa9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#3aafa9,#def2f1,#3aafa9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
   width: 290px;
   display: block;
   margin-left: auto;
