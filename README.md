@@ -18,6 +18,8 @@
     <a href="https://www.java.com">       
     <img src="https://user-images.githubusercontent.com/110616069/230602708-59576e64-8a57-4ca1-977d-add5723e4d81.svg" alt="java" width="40" height="40"/> </a> 
 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugunthansaravanan&show_icons=true&locale=en&layout=compact" alt="mugunthan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugunthansaravanan&show_icons=true&locale=en" alt="mugunthan" /></p>
