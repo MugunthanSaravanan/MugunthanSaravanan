@@ -15,7 +15,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603043-3edc369e-f6c5-4115-9bce-1dd8522c1895.png" alt="python" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603043-3edc369e-f6c5-4115-9bce-1dd8522c1895.png" alt="python" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603279-d9ed0208-2c95-4bd4-b833-39c154280030.png" alt="c" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603342-88080aea-515f-4432-997d-5e86227e7f10.png" alt="c++" width="40" height="40"/> </a> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603279-d9ed0208-2c95-4bd4-b833-39c154280030.png" alt="java" width="40" height="40"/> </a>  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603504-5a00c15e-9e4e-45bf-9972-c04e064e70e1.png" alt="java" width="40" height="40"/> </a>  
+   
+
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603504-5a00c15e-9e4e-45bf-9972-c04e064e70e1.png" alt="java" width="40" height="40"/> </a>  
+   
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110616069/230603504-5a00c15e-9e4e-45bf-9972-c04e064e70e1.png" alt="java" width="40" height="40"/> </a>  
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugunthansaravanan&show_icons=true&locale=en&layout=compact" alt="mugunthan" /></p>
 
