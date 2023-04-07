@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mugunthan Saravanan</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<p align="left"> <img src="![profile](https://user-images.githubusercontent.com/110616069/230598815-ae5ad630-8657-40d8-be15-d9754f1bfb66.png)" alt="subhikshau" /> </p>
+<p align="left"> <img src="![profile](https://user-images.githubusercontent.com/110616069/230598815-ae5ad630-8657-40d8-be15-d9754f1bfb66.png)" alt="mugunthan_s" /> </p>
 
 - 📫 How to reach me **mugunthansaravanan07@gmail.com**
 
