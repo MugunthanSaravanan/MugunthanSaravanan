@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mugunthan Saravanan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/110616069/230599363-b432828f-c040-44b1-9659-ce550016e61f.png">
+<img align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/110616069/230599716-8500589e-6748-4262-9b94-c0066b597a08.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugunthansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="mugunthan_s" /> </p>
 
 - 📫 How to reach me **mugunthansaravanan07@gmail.com**
