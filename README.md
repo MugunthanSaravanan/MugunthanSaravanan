@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mugunthansaravanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugunthan_s" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mugunthan_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mugunthan_s" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mugunthan_s" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110616069/230725831-44b5dbfb-ff59-4648-b624-50632620a718.png" alt="mugunthan_s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Mugunthan_S?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugunthan_s" height="30" width="40" /></a>
 <a href="https://leetcode.com/mugunthan_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mugunthan_s" height="30" width="40" /></a>
 <a href="https://mugunthansaravanan.github.io/MugunthanSaravanan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110616069/230604987-0a01da58-6e63-4fe0-ace3-d3fdc5a92583.jpg" alt="mugunthan_s" height="30" width="30" /></a>
