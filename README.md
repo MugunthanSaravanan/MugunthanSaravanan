@@ -21,6 +21,10 @@
 
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugunthansaravanan&show_icons=true&locale=en&layout=compact" alt="mugunthan" /></p>
+## My Github
+![Mugunthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugunthansaravanan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugunthansaravanan)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugunthansaravanan&show_icons=true&locale=en" alt="mugunthan" /></p>
 -
