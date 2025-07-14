@@ -3,7 +3,7 @@
 <img align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/110616069/230600635-6b2700b9-62cb-4fd7-838b-5fad7f71a823.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugunthansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="mugunthan_s" /> </p>
 
-- 📫 How to reach me **mailtomugunthans@gmail.com**
+- 📫 How to reach me **mugunthansaravanan07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
